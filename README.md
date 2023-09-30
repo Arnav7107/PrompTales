@@ -12,6 +12,7 @@
 ## Project Description
 
 PrompTales is a dynamic web platform that empowers users to unleash their creativity. Users can effortlessly provide story prompts, and PrompTales harnesses the power of AI, such as GPT-3, to weave engaging stories inspired by those prompts. It's a place where imagination knows no bounds.
+NOTE : Due to restricted usage of api calling and paid services of gpt-3 I have restricted the maximum words of generated stories to 5-10 words. The length of the generated stories can be set according to the requirement.
 
 ## Demo
 
