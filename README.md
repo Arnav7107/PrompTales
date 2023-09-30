@@ -94,10 +94,10 @@ Share Stories
 To run AppointEase locally, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/Arnav7107/GMT_Project.git
+    git clone https://github.com/Arnav7107/PrompTales.git
 
 2. Navigate to the project directory:
-   cd GMT_Project
+   cd PrompTales
    
 3. Install the required dependencies:
    npm install
@@ -106,18 +106,18 @@ To run AppointEase locally, follow these steps:
    cd to server directory and run the command nodemon server.js
 
    To start the react app :
-   cd to frontend directory and run the command npm start
+   cd to react-landing-page directory and run the command npm start
 
 ## Technologies Used
 
-AppointEase is built using the following technologies and libraries:
+PrompTales is built using the following technologies :
 
 Technologies Used
     Node.js
     Express.js
-    Mysql
+    Mongodb
     React
-    Nodemailer (for email notifications)
+    
 
    
 
