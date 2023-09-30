@@ -1,0 +1,79 @@
+/* Prompt Submission Form Styles */
+
+.prompt-form-container {
+    /* background-color: #f7f7f7; */
+    background-color: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    height:100vh;
+    /* border: 1px solid #ddd; */
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height:100vh;
+  }
+  
+  .prompt-form-header {
+    font-size: 24px;
+    color: #fbf8f8;
+    margin-bottom: 20px;
+  }
+  
+  .prompt-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .prompt-input {
+    width: 50%;
+    height:20vh;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    resize: vertical;
+  }
+  
+  .submit-button {
+    /* background-color: #007bff; */
+    background-color: #12ba52;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #10b15e;
+  }
+  
+  .generated-story-container{
+    /* background-color: #f7f7f7; */
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 20px;
+  color: #f4f0f0;
+  }
+
+  
+.remove-button {
+  background-color: #e02d2d; /* Red background color */
+  color: #ffffff; /* White text color */
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.remove-button:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
+

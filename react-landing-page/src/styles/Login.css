@@ -1,0 +1,26 @@
+body {
+    /* fallback for old browsers */
+    /* background: #6a11cb; */
+    background: #22ef4e;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1)) */
+    /* background: linear-gradient(to right, #3498db, #1e5799); */
+    /* background: linear-gradient(to right, #3498db, #4da7db); */
+    /* background: linear-gradient(to right, #8e44ad, #3498db); */
+    /* background: linear-gradient(to right, #ffcccb, #a0e9fd); */
+    /* background: linear-gradient(to right, #ff8474, #4da7db); */
+    /* background: linear-gradient(to right, #e74c3c, #4286f4 ); */
+    /* background: linear-gradient(to right, #333, #444); */
+    background: linear-gradient(to right, #5e2d67, #1c2b5b);
+
+
+
+
+
+
+    /* background: linear-gradient(to right, rgb(47, 216, 64), rgb(203, 15, 28)) */
+  }
