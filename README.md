@@ -73,7 +73,6 @@ Share Stories
 
     AI-Powered Story Generation: PrompTales leverages the power of GPT-3 to transform prompts into captivating short stories. Witness AI magic as it crafts narratives tailored to your ideas.
 
-    Rich Text Editor: Writers can format their stories using a user-friendly text editor, enhancing the visual appeal of their tales.
 
 3. User Interaction
 
